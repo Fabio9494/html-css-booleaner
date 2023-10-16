@@ -11,6 +11,11 @@ header{
     padding-top: 20px; 
 }
 
+
+main{
+    padding: 50px;
+}
+
 h2{
     color: gray;
     font-size: 15px;
@@ -23,4 +28,17 @@ h2{
 
 .description-images{
     font-size: 10px;
+}
+
+.text{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#point-out{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 15px;
 }
