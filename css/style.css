@@ -14,12 +14,12 @@ header{
 
 main{
     padding: 50px;
+    font-size: 15px;
 }
 
 h2{
     color: gray;
     font-size: 15px;
-    padding-top: 1px;
 }
 
 #change-colour{
@@ -44,7 +44,7 @@ ul{
 }
 
 table{
-    font-size: 15px;
+    padding: 15px 0 15px 0;
 }
 
 td{
